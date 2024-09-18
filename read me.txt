@@ -1,0 +1,3 @@
+The examples here are shared as a resource for machine learning beginners.
+You can also use these files as a template in your own projects. All you have to do is change the file and column names according to your own data. (Warning: You may get errors in the data visualization parts because the data can vary in structure. Note!)
+I hope these examples will be useful to you.
